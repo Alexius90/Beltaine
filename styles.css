@@ -525,7 +525,7 @@ width: 100px; height: 80px; display: flex; align-items: center; font-size: 10px;
 }
 
 .phone {
-    width: 220px; height: 330px; border-radius: 10px; overflow: hidden; background: url(https://i.ibb.co/3vJT2G1/graveyard.jpg);
+    width: 220px; height: 330px; border-radius: 10px; overflow: hidden; background: url(https://i.ibb.co/sgRzzJZ/graveyard2.jpg);
 }
 
 .overlay { position: relative; bottom: 0; left: 0; right: 0; overflow: hidden; width:220px; height:330px; transition: .99s ease;}
