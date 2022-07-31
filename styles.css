@@ -19,20 +19,20 @@ b, bold, strong {
 }
 
 i, italic {
-    color: #91a9d6;
+    color: #5E5E5E;
 }
 
 big {
     font-size: 10px;
     font-weight: bold;
-    color: #91a9d6;
+    color: #5E5E5E;
 }
 
 a { 
   transition: background-size .4s ease;
   padding: 0 3px 0px 3px;
   cursor: pointer;
-  color: #91a9d6;
+  color: #5E5E5E;
   letter-spacing: .08rem;
   text-decoration: none;
   
@@ -52,7 +52,7 @@ blockquote {
 h2 {
     font-size: 18px;
     font-family: poppins;
-    color: #91a9d6;
+    color: #5E5E5E;
     text-transform: uppercase;
     font-weight: 800;
     line-height: 110%;
@@ -144,7 +144,7 @@ img {
    margin-left:0px;
    z-index:9;
    width:48px;
-   background: #91a9d6;
+   background: #5E5E5E;
    height:48px;
    overflow:hidden;
    color: black;
@@ -220,7 +220,7 @@ img {
    padding: 0px 12px;
    z-index: 99999999999999999999999999!important;
    text-align:center;
-   color: #91a9d6!important;
+   color: #5E5E5E!important;
 
 }
 
@@ -250,7 +250,7 @@ img {
    font-style: italic;
    text-transform: uppercase;
    font-weight: 500;
-   color: #91a9d6;
+   color: #5E5E5E;
    box-shadow: 5px 5px rgba(0,0,0,0.05);
 }
 
@@ -286,14 +286,14 @@ img {
 }
 
 .permalink a { 
-   color:#91a9d6;
+   color:#5E5E5E;
    text-transform: uppercase;
    font-size: 8px;
    letter-spacing: 1.5px;
 }
 
 .notes a { 
-   color:#91a9d6;
+   color:#5E5E5E;
    text-transform: uppercase;
    font-size: 8px;
    letter-spacing: 1.5px;
@@ -314,7 +314,7 @@ font-size: 7px;
    font-style: italic;
    text-transform: uppercase;
    font-weight: 500;
-   color: #91a9d6;
+   color: #5E5E5E;
    letter-spacing: 2px;
 }
 
@@ -368,12 +368,12 @@ font-size: 7px;
     text-transform: uppercase;
     margin-bottom: 15px;
     line-height: 160%;
-    color:#91a9d6;
+    color:#5E5E5E;
 
 }
 
 .ptit {
-    color: #91a9d6;
+    color: #5E5E5E;
     font-family: poppins;
     font-size: 26px;
     font-weight: 900;
@@ -456,7 +456,7 @@ text-align: center;
   padding: 0px;
   font-size: 10px; 
   transition: 0.3s;
-  color: #91a9d6;
+  color: #000000;
 }
 
 .tabcontent {
@@ -505,7 +505,7 @@ width: 15px; height:15px; border-radius: 50%; border: 1px solid #d4d4d4; display
 }
 
 .linkz:hover {
-    width: 15px; height:15px; border-radius: 50%; border: 1px solid #91a9d6; background: #91a9d6; transition: 0.3s;
+    width: 15px; height:15px; border-radius: 50%; border: 1px solid #5E5E5E; background: #5E5E5E; transition: 0.3s;
 }
 
 .lowbar {
@@ -537,7 +537,7 @@ width: 100px; height: 80px; display: flex; align-items: center; font-size: 10px;
 
 .lds-heart {
     font-size: 20px;
-    color: #91a9d6;
+    color: #5E5E5E;
     animation: lds-heart 1.2s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
 }
 
@@ -563,11 +563,11 @@ width: 100px; height: 80px; display: flex; align-items: center; font-size: 10px;
 }
 
 .bola {
-width: 200px; height: 200px; border-radius: 50%; background: #b2c6ec; opacity: 0.6; position: absolute; left: 700px; top: 400px; z-index: 999;
+width: 200px; height: 200px; border-radius: 50%; background: #000000; opacity: 0.6; position: absolute; left: 700px; top: 400px; z-index: 999;
 }
 
 .bola2 {
-width: 260px; height: 260px; background: #b2c6ec; opacity:0.6; border-radius: 50%; position: absolute; z-index: 999; left: 190px; top: 100px;
+width: 260px; height: 260px; background: #000000; opacity:0.6; border-radius: 50%; position: absolute; z-index: 999; left: 190px; top: 100px;
 }
 
 .pcase {
@@ -579,7 +579,7 @@ width: 220px; height: 330px; background: #a9b7d3; mix-blend-mode: multiply; posi
 }
 
 .pthing {
-width: 100px; height: 10px; border-radius: 0px 0px 5px 5px; position: absolute; background:#f8f8f8; left: 60px;
+width: 100px; height: 10px; border-radius: 0px 0px 5px 5px; position: absolute; background:#000000; left: 60px;
 }
 
 .compa {
@@ -615,7 +615,7 @@ width: 60px; height: 200px; position: absolute; z-index: 999; left: 396px; top: 
 }
 
 .soc {
-width: 30px; height: 30px; border: 1px solid #d4d4d4; background: #f8f8f8; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 14px; color: #91a9d6; margin-bottom: 15px;
+width: 30px; height: 30px; border: 1px solid #d4d4d4; background: #f8f8f8; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 14px; color: #5E5E5E; margin-bottom: 15px;
 }
 
 .backie {
@@ -628,6 +628,7 @@ width: 170px; height: 40px; background: #b2c6ec; padding: 30px; border-radius: 2
 
 .sdb {
 width: 170px; height: 40px; padding: 30px; border-radius: 20px; position: absolute;
+background-color: #5E5E5E; color: #ffffff;
 }
 
 .sdd {
@@ -635,7 +636,7 @@ width: 170px; height: 40px; overflow: scroll; line-height: 150%;
 }
 
 .typy {
-width: 200px; height: 20px; font-family: 9px; text-transform: uppercase; color: #91a9d6; display: flex; align-items: center; font-weight: 700; justify-content:flex-end; position: absolute; font-family: poppins; left: 30px; top: -16px;
+width: 200px; height: 20px; font-family: 9px; text-transform: uppercase; color: #5E5E5E; display: flex; align-items: center; font-weight: 700; justify-content:flex-end; position: absolute; font-family: poppins; left: 30px; top: -16px;
 }
 
 .lili {
@@ -664,7 +665,7 @@ width: 25px; height: 25px; border-radius: 50%;
 }
 
 .instu {
-width: 100px; height: 29px; display: flex; align-items: center; font-weight: 700; position: absolute; left: 55px; color: #91a9d6; text-transform: uppercase; font-family: poppins;
+width: 100px; height: 29px; display: flex; align-items: center; font-weight: 700; position: absolute; left: 55px; color: #5E5E5E; text-transform: uppercase; font-family: poppins;
 }
 
 .inst1 {
@@ -684,7 +685,7 @@ width: 280px; height: 25px; position: absolute; top: 370px; left: 10px;
 }
 
 .inst5 {
-font-weight: 700; color: #91a9d6; text-transform: uppercase; font-family: poppins;
+font-weight: 700; color: #5E5E5E; text-transform: uppercase; font-family: poppins;
 }
 
 .inst6 {
@@ -696,7 +697,7 @@ width: 300px; height: 370px; background: #f8f8f8; border: 1px solid #d4d4d4; pos
 }
 
 .pl1 {
-width: 100px; height: 100px; border: 1px solid #d4d4d4; background: #91a9d6; position: absolute; left: 20px; top: 20px;
+width: 100px; height: 100px; border: 1px solid #d4d4d4; background: #5E5E5E; position: absolute; left: 20px; top: 20px;
 }
 
 .pl1 img {
@@ -708,7 +709,7 @@ width: 144px; height: 102px; position: absolute; left: 135px; top: 20px;
 }
 
 .pl3 {
-width: 144px; height: auto; font-size: 12px; font-weight: 700; font-family: poppins; text-transform: uppercase; margin-top: 20px; color: #91a9d6; text-align: left; line-height: 100%;
+width: 144px; height: auto; font-size: 12px; font-weight: 700; font-family: poppins; text-transform: uppercase; margin-top: 20px; color: #5E5E5E; text-align: left; line-height: 100%;
 }
 
 .pl4 {
@@ -716,11 +717,11 @@ width: 144px; height: auto; line-height: 120%;
 }
 
 .pl6 {
-width: auto; height: auto; padding: 0px 20px; background: #91a9d6; display: inline-block; border-radius: 10px; color: white; font-size: 7px; font-family: poppins; text-transform: uppercase; letter-spacing: 2px; transition: 0.2s;
+width: auto; height: auto; padding: 0px 20px; background: #5E5E5E; display: inline-block; border-radius: 10px; color: white; font-size: 7px; font-family: poppins; text-transform: uppercase; letter-spacing: 2px; transition: 0.2s;
 }
 
 .pl6:hover {
-    background: #91a9d6; transition: 0.2s;
+    background: #5E5E5E; transition: 0.2s;
 }
 .pl7 {
 width: auto; height: auto; padding: 6px 5px; border-radius: 50%; border: 1px solid #d4d4d4; display: inline-block; margin-left: 5px; line-height: 0%;
@@ -731,7 +732,7 @@ width: 265px; height: auto; position: absolute; left: 20px; top: 130px; color: #
 }
 
 .pl9 {
-width: 250px; padding: 0px 10px; font-size: 12px; font-weight: 700; font-family: poppins; text-transform: uppercase; color: #91a9d6; border-bottom: 1px solid #d4d4d4; position: absolute; top: 155px; font-size: 8px; left: 15px;
+width: 250px; padding: 0px 10px; font-size: 12px; font-weight: 700; font-family: poppins; text-transform: uppercase; color: #5E5E5E; border-bottom: 1px solid #d4d4d4; position: absolute; top: 155px; font-size: 8px; left: 15px;
 }
 
 .pl10 {
@@ -784,7 +785,7 @@ width: 95px; height: 95px; background: #f8f8f8; padding: 5px; border: 1px solid 
   background-repeat:no-repeat;
   background-position:center;
   background-size:20px;
-  background-color: #91a9d6;
+  background-color: #5E5E5E;
   border-radius: 100%;
     }
 .play {
